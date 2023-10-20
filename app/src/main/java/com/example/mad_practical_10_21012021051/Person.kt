@@ -4,6 +4,7 @@ import java.io.Serializable
 
 class Person(var id:String,
              var name:String,
+             var phoneNO:String,
              var emailId:String,
              var address:String,
              var latitude:Double,
